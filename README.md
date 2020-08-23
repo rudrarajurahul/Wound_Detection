@@ -52,4 +52,6 @@ Calculate the area of the contour for the correspoing area of the wound
 ![image](https://user-images.githubusercontent.com/22589402/90984246-6a05b900-e591-11ea-9f62-851ac196605b.png)
 ![image](https://user-images.githubusercontent.com/22589402/90984249-6d994000-e591-11ea-9550-c328e3489a47.png)
 ![image](https://user-images.githubusercontent.com/22589402/90984251-725df400-e591-11ea-9e14-6dba28621765.png)
+![image](https://user-images.githubusercontent.com/22589402/90984239-5b1f0680-e591-11ea-8ae3-a79ca131bd7d.png)
+
 
