@@ -1,0 +1,15 @@
+# Wound_Detection
+
+![image](https://user-images.githubusercontent.com/22589402/90984285-97526700-e591-11ea-9111-9825f9597a95.png)
+![image](https://user-images.githubusercontent.com/22589402/90984239-5b1f0680-e591-11ea-8ae3-a79ca131bd7d.png)
+![image](https://user-images.githubusercontent.com/22589402/90984246-6a05b900-e591-11ea-9f62-851ac196605b.png)
+![image](https://user-images.githubusercontent.com/22589402/90984249-6d994000-e591-11ea-9550-c328e3489a47.png)
+![image](https://user-images.githubusercontent.com/22589402/90984251-725df400-e591-11ea-9e14-6dba28621765.png)
+![image](https://user-images.githubusercontent.com/22589402/90984255-77bb3e80-e591-11ea-80d6-78b5c59cd878.png)
+![image](https://user-images.githubusercontent.com/22589402/90984260-7b4ec580-e591-11ea-913d-df286aadb0a4.png)
+![image](https://user-images.githubusercontent.com/22589402/90984262-7f7ae300-e591-11ea-84dc-9808104913a5.png)
+![image](https://user-images.githubusercontent.com/22589402/90984267-8570c400-e591-11ea-9731-f78059e814f1.png)
+![image](https://user-images.githubusercontent.com/22589402/90984271-899ce180-e591-11ea-84cd-78fb41d713b4.png)
+![image](https://user-images.githubusercontent.com/22589402/90984275-8d306880-e591-11ea-84d1-6bf14be21d36.png)
+![image](https://user-images.githubusercontent.com/22589402/90984278-902b5900-e591-11ea-9dc0-6fc2279ee427.png)
+![image](https://user-images.githubusercontent.com/22589402/90984285-97526700-e591-11ea-9111-9825f9597a95.png)
